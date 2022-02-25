@@ -8,6 +8,4 @@ I am Andrew Magner studying Business Analytics at the University of Iowa. This i
 > - Camping
 > - Skiing
 
-Here's a cool picture:
-
-    ![Tux, the Linux mascot](/assets/images/tux.png)
+To learn more about camping go to [FreeCampsites](https://freecampsites.net/).
